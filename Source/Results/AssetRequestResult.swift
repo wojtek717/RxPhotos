@@ -1,9 +1,9 @@
 //
 //  AssetRequestResult.swift
-//  RxPhotos
+//  Pazzing - Escape Rooms
 //
-//  Created by Anton Romanov on 01/04/2018.
-//  Copyright © 2018 Istered. All rights reserved.
+//  Created by Wojciech Konury on 10/09/2020.
+//  Copyright © 2020 Angry Nerds. All rights reserved.
 //
 
 import Foundation

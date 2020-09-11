@@ -3,6 +3,7 @@
 //  iOS Example
 //
 //  Created by Anton Romanov on Apr 1, 2018.
+//  Edited by Wojciech Konury on Sep 11 2020.
 //  Copyright © 2018 Istered. All rights reserved.
 //
 

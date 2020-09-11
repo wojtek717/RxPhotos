@@ -1,20 +1,20 @@
 //
 //  ImageDataRequestResult.swift
-//  RxPhotos
+//  Pazzing - Escape Rooms
 //
-//  Created by Anton Romanov on 01/04/2018.
-//  Copyright © 2018 Istered. All rights reserved.
+//  Created by Wojciech Konury on 10/09/2020.
+//  Copyright © 2020 Angry Nerds. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 public struct ImageDataRequestResult {
     public let data: Data?
     public let UTI: String?
-    public let orientation: UIImageOrientation
+    public let orientation: UIImage.Orientation
     public let info: [AnyHashable: Any]
 
-    internal init(data: Data?, UTI: String?, orientation: UIImageOrientation, info: [AnyHashable: Any]?) {
+    internal init(data: Data?, UTI: String?, orientation: UIImage.Orientation, info: [AnyHashable: Any]?) {
         self.data = data
         self.UTI = UTI
         self.orientation = orientation

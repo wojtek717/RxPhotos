@@ -1,18 +1,14 @@
-platform :ios, '10.0'
+platform :ios, '12.0'
 
 target 'RxPhotos' do
   use_frameworks!
   inhibit_all_warnings!
 
-  pod 'RxSwift'
+  pod 'RxSwift', '5.1.1'
   pod 'SwiftLint'
 
   target 'RxPhotosTests' do
     inherit! :search_paths
   end
 
-end
-
-target 'iOS Example' do
-  pod 'RxSwift'
 end
