@@ -101,6 +101,7 @@ Run `carthage update` to build the framework and drag the built `RxPhotos`.frame
 ## Author
 
 Anton Romanov
+Wojciech Konury
 
 
 ## License
