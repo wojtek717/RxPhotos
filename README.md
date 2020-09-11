@@ -92,7 +92,7 @@ Run `carthage update` to build the framework and drag the built `RxPhotos`.frame
 
 
 ## Dependencies
-* [RxSwift](https://github.com/ReactiveX/RxSwift) ~> 4.0
+* [RxSwift](https://github.com/ReactiveX/RxSwift) ~> 5.0.3
 
 ## Requirements
 * iOS 12+
